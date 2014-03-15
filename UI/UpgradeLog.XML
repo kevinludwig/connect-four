@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="C4">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\kludwig\My Documents\Programming\C4\C4.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\kludwig\My Documents\Programming\C4\C4.suo">
+</Property><Property Name="Date" Value="Monday, June 19, 2006">
+</Property><Property Name="Time" Value="22:53 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="C4.sln" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\C4.sln">
+</Event><Event ErrorLevel="0" Project="" Source="C4.suo" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\C4.suo">
+</Event><Event ErrorLevel="0" Project="C4" Source="C4.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\C4.vbproj">
+</Event><Event ErrorLevel="0" Project="C4" Source="C4.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\C4.vbproj.user">
+</Event><Event ErrorLevel="0" Project="C4" Source="About.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\About.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="BoardView.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\BoardView.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="GameForm.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\GameForm.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="MainFrame.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\MainFrame.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="MovesForm.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\MovesForm.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="OptionsForm.vb" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\OptionsForm.vb">
+</Event><Event ErrorLevel="0" Project="C4" Source="About.resx" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\About.resx">
+</Event><Event ErrorLevel="0" Project="C4" Source="BoardView.resx" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\BoardView.resx">
+</Event><Event ErrorLevel="0" Project="C4" Source="GameForm.resx" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\GameForm.resx">
+</Event><Event ErrorLevel="0" Project="C4" Source="MainFrame.resx" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\MainFrame.resx">
+</Event><Event ErrorLevel="0" Project="C4" Source="MovesForm.resx" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\MovesForm.resx">
+</Event><Event ErrorLevel="0" Project="C4" Source="OptionsForm.resx" Description="File successfully backed up as C:\Documents and Settings\kludwig\My Documents\Programming\C4\Backup\OptionsForm.resx">
+</Event><Event ErrorLevel="0" Project="C4" Source="C4.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C4" Source="C4.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="C4.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="C4.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C4" Source="C4.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
